@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-// $config['base_url'] = 'base_url_frontend_Anda';
+$config['base_url'] = 'http://frontend.submission-mgce-samdazain.et.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

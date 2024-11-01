@@ -33,4 +33,5 @@ class Dashboard extends CI_Controller {
 		$data['incomes'] = $this->record_model->getTopExpense();
 		$this->load->view('dashboard', $data);
 	}
+	
 }
